@@ -1,11 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 # Description
@@ -13,3 +5,12 @@ This is a Game called Tenzies. The game is played by choosing a number, let's sa
 
 # Lessons Learnt
 During the development of the game I mostly practiced dealing with react logic.
+I also practised using containerization using Docker.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
