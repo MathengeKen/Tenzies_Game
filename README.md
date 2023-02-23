@@ -9,6 +9,6 @@ I also practised using containerization using Docker.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run: npm start
+# You can play the game on the following Netlify site
+mellifluous-parfait-0afe59.netlify.app 
+🕹️🕹️🕹️🎮🎮🎮
