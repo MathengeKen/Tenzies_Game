@@ -1,5 +1,3 @@
-### `npm start`
-
 # Description
 This is a Game called Tenzies. The game is played by choosing a number, let's say 6, when i say the number in another box i click and "hold" it. If there is no other 6 you roll. The goal is to basically hold and roll until all the numbers are the same.
 
@@ -13,4 +11,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: npm start
